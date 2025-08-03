@@ -3,7 +3,7 @@
 This repository contains my **digital CV**, created using an open-source HTML5 template and hosted via **GitHub Pages**.
 
 ## 🔗 Live Link
-View it live: https://noorajaz2214.github.io/my-digital-cv/
+View it live:https://noorajaz2214.github.io/my-digital-cv/
 
 ## 📄 Features
 
